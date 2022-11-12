@@ -26,6 +26,8 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheAnonymous2005/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
+##               [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/tsJi8W?referralCode=Duw4MO)
+
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ 」─
 </h3>
